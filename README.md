@@ -13,3 +13,6 @@ BATCH DURATION: January 5th, 2025 to February 5th, 2025.
 MENTOR NAME: NEELA SANTOSH
 
 OUTPUT OF THE CODE:
+
+![SCreenshort 2](https://github.com/user-attachments/assets/3f327048-3962-4bcc-b91a-a0d2e093bf9f)
+
